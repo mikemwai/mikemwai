@@ -1,5 +1,7 @@
 ### 📊 GitHub Stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikemwai&theme=default&mode=weekly)](https://git.io/streak-stats)
+
 <!--
 **mikemwai/mikemwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
